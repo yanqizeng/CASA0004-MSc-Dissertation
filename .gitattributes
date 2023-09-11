@@ -12,3 +12,4 @@ statistic_standardized.csv filter=lfs diff=lfs merge=lfs -text
 MC_2_city filter=lfs diff=lfs merge=lfs -text
 and filter=lfs diff=lfs merge=lfs -text
 rural.csv filter=lfs diff=lfs merge=lfs -text
+MC_3_housing_standardized_classify.csv filter=lfs diff=lfs merge=lfs -text
