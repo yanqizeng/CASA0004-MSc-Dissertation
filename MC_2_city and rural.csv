@@ -1,0 +1,257 @@
+﻿FID,GLTLA22CD,GLTLA22NM,Classify,Classification Number
+1,E68000001,"Stockton-on-Tees, Hartlepool",Urban with City and Town,3
+2,E68000002,Middlesbrough,,
+3,E68000003,Redcar and Cleveland,,
+4,E68000004,"Darlington, Hambleton",Largely Rural (rural including hub towns),5
+5,E68000005,Halton,Urban with City and Town,3
+6,E68000006,Warrington,Urban with City and Town,3
+7,E68000007,Blackburn with Darwen,Urban with City and Town,3
+8,E68000008,Blackpool,Urban with City and Town,3
+9,E68000009,"Kingston upon Hull, City of",Urban with City and Town,3
+10,E68000010,East Riding of Yorkshire,Mainly Rural (rural including hub towns),6
+11,E68000011,North East Lincolnshire,Urban with City and Town,3
+12,E68000012,North Lincolnshire,Urban with Significant Rural (rural including hub towns),4
+13,E68000013,"York, Selby",Largely Rural (rural including hub towns),5
+14,E68000014,Derby,Urban with City and Town,3
+15,E68000015,Leicester,Urban with City and Town,3
+16,E68000016,"Harborough, Melton, Rutland",Largely Rural (rural including hub towns),5
+17,E68000017,Nottingham,Urban with Minor Conurbation,2
+18,E68000018,"Herefordshire, County of",Mainly Rural (rural including hub towns),6
+19,E68000019,Telford and Wrekin,Urban with City and Town,3
+20,E68000020,Stoke-on-Trent,Urban with City and Town,3
+21,E68000021,Bath and North East Somerset,Urban with Significant Rural (rural including hub towns),4
+22,E68000022,"Bristol, City of",Urban with City and Town,3
+23,E68000023,North Somerset,Urban with Significant Rural (rural including hub towns),4
+24,E68000024,South Gloucestershire,Urban with City and Town,3
+25,E68000025,Plymouth,,
+26,E68000026,Torbay,,
+27,E68000027,Swindon,Urban with City and Town,3
+28,E68000028,Peterborough,Urban with City and Town,3
+29,E68000029,Luton,,
+30,E68000030,Southend-on-Sea,,
+31,E68000031,Thurrock,Urban with Major Conurbation,1
+32,E68000032,Medway,Urban with City and Town,3
+33,E68000033,Bracknell Forest,Urban with City and Town,3
+34,E68000034,West Berkshire,Urban with Significant Rural (rural including hub towns),4
+35,E68000035,Reading,Urban with City and Town,3
+36,E68000036,Slough,Urban with City and Town,3
+37,E68000037,Windsor and Maidenhead,Urban with City and Town,3
+38,E68000038,Wokingham,Urban with City and Town,3
+39,E68000039,Milton Keynes,Urban with City and Town,3
+40,E68000040,Brighton and Hove,Urban with City and Town,3
+41,E68000041,Portsmouth,Urban with City and Town,3
+42,E68000042,Southampton,Urban with City and Town,3
+43,E68000043,Isle of Wight,Largely Rural (rural including hub towns),5
+44,E68000044,County Durham,Mainly Rural (rural including hub towns),6
+45,E68000045,Cheshire East,Urban with Significant Rural (rural including hub towns),4
+46,E68000046,Cheshire West and Chester,Urban with Significant Rural (rural including hub towns),4
+47,E68000047,Shropshire,Mainly Rural (rural including hub towns),6
+48,E68000048,"Cornwall, Isles of Scilly",Largely Rural (rural including hub towns),5
+49,E68000049,Wiltshire,Mainly Rural (rural including hub towns),6
+50,E68000050,Bedford,Urban with Significant Rural (rural including hub towns),4
+51,E68000051,Central Bedfordshire,Mainly Rural (rural including hub towns),6
+52,E68000052,Northumberland,Mainly Rural (rural including hub towns),6
+53,E68000053,"Bournemouth, Christchurch and Poole",Urban with City and Town,3
+54,E68000054,Dorset,Largely Rural (rural including hub towns),5
+55,E68000055,Buckinghamshire,Mainly Rural (rural including hub towns),6
+56,E68000056,North Northamptonshire,Mainly Rural (rural including hub towns),6
+57,E68000057,West Northamptonshire,Largely Rural (rural including hub towns),5
+58,E68000058,Cambridge,Urban with City and Town,3
+59,E68000059,"Fenland, East Cambridgeshire",Mainly Rural (rural including hub towns),6
+60,E68000060,Huntingdonshire,Largely Rural (rural including hub towns),5
+61,E68000061,South Cambridgeshire,Mainly Rural (rural including hub towns),6
+62,E68000062,"Carlisle, Allerdale",Largely Rural (rural including hub towns),5
+63,E68000063,"Barrow-in-Furness, Copeland",Largely Rural (rural including hub towns),5
+64,E68000064,"South Lakeland, Eden",Largely Rural (rural including hub towns),5
+65,E68000065,"Amber Valley, North East Derbyshire",Urban with City and Town,3
+66,E68000066,"Chesterfield, Bolsover",Urban with City and Town,3
+67,E68000067,"High Peak, Derbyshire Dales",Mainly Rural (rural including hub towns),6
+68,E68000068,"Erewash, South Derbyshire",Urban with Significant Rural (rural including hub towns),4
+69,E68000069,"East Devon, Mid Devon",Mainly Rural (rural including hub towns),6
+70,E68000070,Exeter,Urban with City and Town,3
+71,E68000071,"North Devon, Torridge",Largely Rural (rural including hub towns),5
+72,E68000072,"South Hams, West Devon",Largely Rural (rural including hub towns),5
+73,E68000073,Teignbridge,Mainly Rural (rural including hub towns),6
+74,E68000074,"Eastbourne, Lewes",Urban with Significant Rural (rural including hub towns),4
+75,E68000075,"Rother, Hastings",Mainly Rural (rural including hub towns),6
+76,E68000076,Wealden,Largely Rural (rural including hub towns),5
+77,E68000077,Basildon,Urban with City and Town,3
+78,E68000078,"Braintree, Uttlesford",Mainly Rural (rural including hub towns),6
+79,E68000079,"Harlow, Brentwood",Urban with Significant Rural (rural including hub towns),4
+80,E68000080,"Castle Point, Maldon, Rochford",Largely Rural (rural including hub towns),5
+81,E68000081,Chelmsford,Urban with City and Town,3
+82,E68000082,Colchester,Urban with Significant Rural (rural including hub towns),4
+83,E68000083,Epping Forest,Urban with Significant Rural (rural including hub towns),4
+84,E68000084,Tendring,Mainly Rural (rural including hub towns),6
+85,E68000085,"Cheltenham, Cotswold",,
+86,E68000086,"Stroud, Forest of Dean",Largely Rural (rural including hub towns),5
+87,E68000087,"Gloucester, Tewkesbury",Mainly Rural (rural including hub towns),6
+88,E68000088,Basingstoke and Deane,Urban with Significant Rural (rural including hub towns),4
+89,E68000089,East Hampshire,Largely Rural (rural including hub towns),5
+90,E68000090,Eastleigh,Urban with City and Town,3
+91,E68000091,"Fareham, Gosport",Urban with City and Town,3
+92,E68000092,"Hart, Rushmoor",Urban with Significant Rural (rural including hub towns),4
+93,E68000093,Havant,,
+94,E68000094,New Forest,Urban with Significant Rural (rural including hub towns),4
+95,E68000095,Test Valley,Urban with Significant Rural (rural including hub towns),4
+96,E68000096,Winchester,Mainly Rural (rural including hub towns),6
+97,E68000097,"East Hertfordshire, Broxboune",Urban with Significant Rural (rural including hub towns),4
+98,E68000098,Dacorum,Urban with Significant Rural (rural including hub towns),4
+99,E68000099,"Welwyn Hatfield, Hertsmere",Urban with City and Town,3
+100,E68000100,"North Hertfordshire, Stevenage",Urban with Significant Rural (rural including hub towns),4
+101,E68000101,"Watford, Three Rivers",Urban with Major Conurbation,1
+102,E68000102,"Ashford, Tunbridge Wells",Urban with Significant Rural (rural including hub towns),4
+103,E68000103,Canterbury,Urban with City and Town,3
+104,E68000104,"Dartford, Gravesham",Urban with Major Conurbation,1
+105,E68000105,"Dover, Folkestone and Hythe",Urban with Significant Rural (rural including hub towns),4
+106,E68000106,Maidstone,Urban with Significant Rural (rural including hub towns),4
+107,E68000107,Sevenoaks,Mainly Rural (rural including hub towns),6
+108,E68000108,Swale,Mainly Rural (rural including hub towns),6
+109,E68000109,Thanet,Urban with City and Town,3
+110,E68000110,Tonbridge and Malling,Urban with Significant Rural (rural including hub towns),4
+111,E68000111,"Pendle, Burnley",Urban with City and Town,3
+112,E68000112,"Chorley, West Lancashire",Urban with Significant Rural (rural including hub towns),4
+113,E68000113,"Wyre, Fylde",Urban with City and Town,3
+114,E68000114,"Hyndburn, Rossendale",Urban with City and Town,3
+115,E68000115,Lancaster,Urban with Significant Rural (rural including hub towns),4
+116,E68000116,Preston,Urban with City and Town,3
+117,E68000117,"South Ribble, Ribble Valley",Largely Rural (rural including hub towns),5
+118,E68000118,"Blaby, Oadby and Wigston",Urban with City and Town,3
+119,E68000119,Charnwood,Urban with City and Town,3
+120,E68000120,"Hinckley and Bosworth, North West Leicestershire",Mainly Rural (rural including hub towns),6
+121,E68000121,"South Holland, Boston",Mainly Rural (rural including hub towns),6
+122,E68000122,East Lindsey,Largely Rural (rural including hub towns),5
+123,E68000123,"Lincoln, West Lindsey",Largely Rural (rural including hub towns),5
+124,E68000124,"South Kesteven, North Kesteven",Largely Rural (rural including hub towns),5
+125,E68000125,Breckland,Largely Rural (rural including hub towns),5
+126,E68000126,Broadland,Urban with Significant Rural (rural including hub towns),4
+127,E68000127,"North Norfolk, Great Yarmouth",Largely Rural (rural including hub towns),5
+128,E68000128,King's Lynn and West Norfolk,Mainly Rural (rural including hub towns),6
+129,E68000129,Norwich,Urban with City and Town,3
+130,E68000130,South Norfolk,Largely Rural (rural including hub towns),5
+131,E68000131,"Harrogate, Craven, Richmondshire",Largely Rural (rural including hub towns),5
+132,E68000132,"Scarborough, Ryedale",Largely Rural (rural including hub towns),5
+133,E68000133,"Ashfield, Mansfield",Urban with City and Town,3
+134,E68000134,"Newark and Sherwood, Bassetlaw",Mainly Rural (rural including hub towns),6
+135,E68000135,"Gedling, Broxtowe",Urban with Minor Conurbation,2
+136,E68000136,Rushcliffe,Mainly Rural (rural including hub towns),6
+137,E68000137,Cherwell,Urban with Significant Rural (rural including hub towns),4
+138,E68000138,Oxford,Urban with City and Town,3
+139,E68000139,South Oxfordshire,Largely Rural (rural including hub towns),5
+140,E68000140,"Vale of White Horse, West Oxfordshire",Mainly Rural (rural including hub towns),6
+141,E68000141,"Sedgemoor, Mendip",Largely Rural (rural including hub towns),5
+142,E68000142,South Somerset,Mainly Rural (rural including hub towns),6
+143,E68000143,"South Staffordshire, Cannock Chase",Urban with Significant Rural (rural including hub towns),4
+144,E68000144,"East Staffordshire, Staffordshire Moorlands",Mainly Rural (rural including hub towns),6
+145,E68000145,"Lichfield, Tamworth",Urban with Significant Rural (rural including hub towns),4
+146,E68000146,Newcastle-under-Lyme,Urban with City and Town,3
+147,E68000147,Stafford,Urban with Significant Rural (rural including hub towns),4
+148,E68000148,"Mid Suffolk, Babergh",Largely Rural (rural including hub towns),5
+149,E68000149,Ipswich,,
+150,E68000150,"Elmbridge, Epson and Ewell",Urban with Major Conurbation,1
+151,E68000151,Guildford,Urban with City and Town,3
+152,E68000152,"Waverley, Mole Valley",Mainly Rural (rural including hub towns),6
+153,E68000153,"Reigate and Banstead, Tandridge",Urban with Significant Rural (rural including hub towns),4
+154,E68000154,"Spelthorne, Runnymede",Urban with Major Conurbation,1
+155,E68000155,"Woking, Surrey Heath",Urban with City and Town,3
+156,E68000156,"Rugby, North Warwickshire",Urban with City and Town,3
+157,E68000157,Nuneaton and Bedworth,Largely Rural (rural including hub towns),5
+158,E68000158,Stratford-on-Avon,,
+159,E68000159,Warwick,Urban with City and Town,3
+160,E68000160,"Worthing, Adur",Urban with City and Town,3
+161,E68000161,Arun,Urban with City and Town,3
+162,E68000162,Chichester,Mainly Rural (rural including hub towns),6
+163,E68000163,"Mid Sussex, Crawley",Urban with City and Town,3
+164,E68000164,Horsham,Mainly Rural (rural including hub towns),6
+165,E68000165,"Wyre Forest, Bromsgrove",,
+166,E68000166,"Worcester, Malvern Hills",Mainly Rural (rural including hub towns),6
+167,E68000167,"Wychavon, Redditch",,
+168,E68000168,St Albans,Urban with City and Town,3
+169,E68000169,East Suffolk,Mainly Rural (rural including hub towns),6
+170,E68000170,West Suffolk,Mainly Rural (rural including hub towns),6
+171,E68000171,Somerset West and Taunton,Largely Rural (rural including hub towns),5
+172,E68000172,Bolton,Urban with Major Conurbation,1
+173,E68000173,Bury,Urban with Major Conurbation,1
+174,E68000174,Manchester,Urban with Major Conurbation,1
+175,E68000175,Oldham,Urban with Major Conurbation,1
+176,E68000176,Rochdale,Urban with Major Conurbation,1
+177,E68000177,Salford,Urban with Major Conurbation,1
+178,E68000178,Stockport,Urban with Major Conurbation,1
+179,E68000179,Tameside,Urban with Major Conurbation,1
+180,E68000180,Trafford,Urban with Major Conurbation,1
+181,E68000181,Wigan,Urban with Major Conurbation,1
+182,E68000182,Knowsley,Urban with Major Conurbation,1
+183,E68000183,Liverpool,Urban with Major Conurbation,1
+184,E68000184,St. Helens,Urban with Major Conurbation,1
+185,E68000185,Sefton,Urban with Major Conurbation,1
+186,E68000186,Wirral,Urban with Major Conurbation,1
+187,E68000187,Barnsley,Urban with Minor Conurbation,2
+188,E68000188,Doncaster,Urban with Minor Conurbation,2
+189,E68000189,Rotherham,Urban with Minor Conurbation,2
+190,E68000190,Sheffield,Urban with Minor Conurbation,2
+191,E68000191,Newcastle upon Tyne,Urban with Major Conurbation,1
+192,E68000192,North Tyneside,Urban with Major Conurbation,1
+193,E68000193,South Tyneside,Urban with Major Conurbation,1
+194,E68000194,Sunderland,Urban with Major Conurbation,1
+195,E68000195,Birmingham,Urban with Major Conurbation,1
+196,E68000196,Coventry,Urban with City and Town,3
+197,E68000197,Dudley,Urban with Major Conurbation,1
+198,E68000198,Sandwell,Urban with Major Conurbation,1
+199,E68000199,Solihull,Urban with Major Conurbation,1
+200,E68000200,Walsall,Urban with Major Conurbation,1
+201,E68000201,Wolverhampton,Urban with Major Conurbation,1
+202,E68000202,Bradford,Urban with Major Conurbation,1
+203,E68000203,Calderdale,Urban with Major Conurbation,1
+204,E68000204,Kirklees,Urban with Major Conurbation,1
+205,E68000205,Leeds,Urban with City and Town,3
+206,E68000206,Wakefield,,
+207,E68000207,Gateshead,Urban with Major Conurbation,1
+208,E68000208,"Westminster, City of London",Urban with Major Conurbation,1
+209,E68000209,Barking and Dagenham,Urban with Major Conurbation,1
+210,E68000210,Barnet,Urban with Major Conurbation,1
+211,E68000211,Bexley,,
+212,E68000212,Brent,Urban with Major Conurbation,1
+213,E68000213,Bromley,Urban with Major Conurbation,1
+214,E68000214,Camden,Urban with Major Conurbation,1
+215,E68000215,Croydon,Urban with Major Conurbation,1
+216,E68000216,Ealing,Urban with Major Conurbation,1
+217,E68000217,Enfield,Urban with Major Conurbation,1
+218,E68000218,Greenwich,Urban with Major Conurbation,1
+219,E68000219,Hackney,Urban with Major Conurbation,1
+220,E68000220,Hammersmith and Fulham,Urban with Major Conurbation,1
+221,E68000221,Haringey,Urban with Major Conurbation,1
+222,E68000222,Harrow,Urban with Major Conurbation,1
+223,E68000223,Havering,Urban with Major Conurbation,1
+224,E68000224,Hillingdon,Urban with Major Conurbation,1
+225,E68000225,Hounslow,Urban with Major Conurbation,1
+226,E68000226,Islington,Urban with Major Conurbation,1
+227,E68000227,Kensington and Chelsea,Urban with Major Conurbation,1
+228,E68000228,Kingston upon Thames,Urban with Major Conurbation,1
+229,E68000229,Lambeth,Urban with Major Conurbation,1
+230,E68000230,Lewisham,Urban with Major Conurbation,1
+231,E68000231,Merton,Urban with Major Conurbation,1
+232,E68000232,Newham,Urban with Major Conurbation,1
+233,E68000233,Redbridge,Urban with Major Conurbation,1
+234,E68000234,Richmond upon Thames,Urban with Major Conurbation,1
+235,E68000235,Southwark,Urban with Major Conurbation,1
+236,E68000236,Sutton,Urban with Major Conurbation,1
+237,E68000237,Tower Hamlets,Urban with Major Conurbation,1
+238,E68000238,Waltham Forest,Urban with Major Conurbation,1
+239,E68000239,Wandsworth,Urban with Major Conurbation,1
+240,W47000001,"Gwynedd, Isle of Anglesey",,
+241,W47000002,"Conwy, Denbighshire",,
+242,W47000003,Flintshire,,
+243,W47000004,Wrexham,,
+244,W47000005,"Pembrokeshire, Ceredigion",,
+245,W47000006,Carmarthenshire,,
+246,W47000007,Swansea,,
+247,W47000008,Neath Port Talbot,,
+248,W47000009,Bridgend,,
+249,W47000010,Vale of Glamorgan,,
+250,W47000011,Cardiff,,
+251,W47000012,Rhondda Cynon Taf,,
+252,W47000013,Caerphilly,,
+253,W47000014,"Blaenau Gwent, Merthyr Tydfil",,
+254,W47000015,"Monmouthshire, Torfaen",,
+255,W47000016,Newport,,
+256,W47000017,Powys,,
