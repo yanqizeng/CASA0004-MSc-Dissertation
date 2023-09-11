@@ -3,3 +3,4 @@ GS_1_Sheffield_three filter=lfs diff=lfs merge=lfs -text
 GS_1_Sheffield_threeperiods.csv filter=lfs diff=lfs merge=lfs -text
 GS_1_Cardiff_threeperiods.csv filter=lfs diff=lfs merge=lfs -text
 GS_2_Sheffield_with_coordinates.csv filter=lfs diff=lfs merge=lfs -text
+GS_3_Cardiff_with_coordinates_within400.csv filter=lfs diff=lfs merge=lfs -text
